@@ -5,4 +5,5 @@ class Ping:
         resp.media = {"ping": "ok"}
 
 app = falcon.App()
+
 app.add_route("/ping", Ping())
