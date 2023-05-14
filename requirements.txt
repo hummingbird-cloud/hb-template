@@ -1,0 +1,5 @@
+falcon
+gunicorn
+marshmallow-dataclass
+PyYAML
+# TODO: add version for future release
